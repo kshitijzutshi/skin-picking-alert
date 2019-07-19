@@ -11,3 +11,7 @@ Macbook Air(2017) |
 8 GB 1600 MHz DDR3 |
 Intel HD Graphics 6000 1536 MB
 
+### Click Below to deploy this Repo to Netlify
+
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/kshitijzutshi/skin-picking-alert)
